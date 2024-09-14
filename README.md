@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nilsen303
-- 👀 I’m into arts and other creative tingys such as writing etc.
-- 🌱 I'm learningAseprite, school stuff.
-- 💞️ I'm currently translating for LunarEclipse studios, but i wouldreally like to work on something with someone!
-- 📫 How to reach? well: nilsbwallerberg@gmail.com or @nilsen303 on Discord!
+- 👀 I’m into arts and other creative tingies such as writing and making videos.
+- 🌱 I'm learningAseprite, and a lil bit of Minecraft modding
+- 💞️ I'm currently translating for LunarEclipse studios, which is really awesome (go and check it out right this instant or i swear i will...)
+- 📫 How to reach? well: 303nilsen@gmail.com or @nilsen303 on Discord!
 
 <!---
 Nilsen303/Nilsen303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
